@@ -1,0 +1,36 @@
+{
+  "seller": [
+    {
+      "name": "sara",
+      "email": "sara@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "sarika satpute",
+      "email": "sarika@seller.com",
+      "password": "abc@123",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "samsung",
+      "price": "700",
+      "color": "white",
+      "category": " vwerfgty",
+      "description": "very good producthjh",
+      "image": "https://www.digitaltrends.com/wp-content/uploads/2022/09/iPhone-14-Pro-Back-Purple-Hand.jpg?p=1",
+      "id": 1
+    },
+    {
+      "name": "samsung",
+      "price": "700",
+      "color": "white",
+      "category": "Mobile",
+      "description": "Built for Multi-tasking & productivity. Shop Now! Save 18% with GST Invoice.",
+      "image": "https://www.digitaltrends.com/wp-content/uploads/2022/09/iPhone-14-Pro-Back-Purple-Hand.jpg?p=1",
+      "id": 12
+    }
+  ]
+}
