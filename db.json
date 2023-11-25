@@ -15,22 +15,67 @@
   ],
   "products": [
     {
-      "name": "samsung",
-      "price": "700",
-      "color": "white",
-      "category": " vwerfgty",
-      "description": "very good producthjh",
-      "image": "https://www.digitaltrends.com/wp-content/uploads/2022/09/iPhone-14-Pro-Back-Purple-Hand.jpg?p=1",
+      "name": "nicky",
+      "price": "100$",
+      "color": "rembo",
+      "category": "shoes",
+      "description": "very good product However, such approach is handy only within a very simple application and as soon as your application’s architecture",
+      "image": "https://img.freepik.com/free-photo/sneaker-that-has-word-nike-it_123827-23436.jpg?w=996&t=st=1700725687~exp=1700726287~hmac=7f664e760885ceb29ff4e37d0f0b177ada653d7ec9805e56d4f7f3c246f5a5d0",
       "id": 1
     },
     {
+      "name": "Reboke",
+      "price": "1000$",
+      "color": "white",
+      "category": "shoes",
+      "description": "However, such approach is handy only within a very simple application and as soon as your application’s architecture :)  ",
+      "image": "https://img.freepik.com/free-photo/sport-running-shoes_1203-3414.jpg?w=996&t=st=1700725634~exp=1700726234~hmac=85106c74e6cde6294e48ec84a01759b2b357eb4077c2ad9d29cdd1042425b0aa",
+      "id": 2
+    },
+    {
+      "name": "Local Brand",
+      "price": "2356",
+      "color": "white",
+      "category": "shoes",
+      "description": "😊 😊😊😊😊😊😊😊our website help you easily copy and paste all smileys faces text symbols and smiling emojis.our website help you easily copy and paste all smileys faces text symbols and smiling emojis.",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/3/y/c/9-rso2775-9-red-tape-white-original-imagpjvzxhbvcbpz.jpeg?q=70",
+      "id": 3
+    },
+    {
       "name": "samsung",
-      "price": "700",
+      "price": "2356",
       "color": "white",
       "category": "Mobile",
-      "description": "Built for Multi-tasking & productivity. Shop Now! Save 18% with GST Invoice.",
-      "image": "https://www.digitaltrends.com/wp-content/uploads/2022/09/iPhone-14-Pro-Back-Purple-Hand.jpg?p=1",
-      "id": 12
+      "description": "dggfgfg",
+      "image": "https://img.freepik.com/free-photo/sports-shoe-pair-design-illustration-generated-by-ai_188544-19642.jpg?w=1060&t=st=1700725727~exp=1700726327~hmac=9c677fcf2d19712d2e592f404443c7efe308cd3520ecbd59e0af4546be93324a",
+      "id": 4
+    },
+    {
+      "name": "samsung",
+      "price": "2356",
+      "color": "white",
+      "category": "Mobile",
+      "description": "dggfgfg",
+      "image": "https://rukminim2.flixcart.com/image/416/416/computer/3/k/f/acer-e-machine-notebook-eme-732z-original-imad6hz6tgddmzzh.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "name": "samsung",
+      "price": "2356",
+      "color": "white",
+      "category": "Mobile",
+      "description": "dggfgfg",
+      "image": "https://www.techspot.com/images2/news/bigimage/2021/07/2021-07-08-image-3-j_1100.webp",
+      "id": 6
+    },
+    {
+      "name": "samsung",
+      "price": "2356",
+      "color": "white",
+      "category": "Mobile",
+      "description": "dggfgfg",
+      "image": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/laptop.jpg",
+      "id": 7
     }
   ]
 }

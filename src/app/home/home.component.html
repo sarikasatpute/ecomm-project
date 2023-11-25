@@ -1,1 +1,41 @@
-<p>home works! page</p>
+<ngb-carousel *ngIf="popularProducts">
+  <ng-template *ngFor="let item of popularProducts" ngbSlide>
+    <div class="picsum-img-wrapper">
+      <img
+        class="product_header_image"
+        src="{{ item.image }}"
+        alt="Random first slide"
+      />
+    </div>
+    <div class="carousel-caption">
+      <h3>{{ item.name }}</h3>
+      <p>{{ item.description }}</p>
+    </div>
+  </ng-template>
+</ngb-carousel>
+<!---All product list-->
+<div class="product-list-wrapper">
+  <h1>Trendy Product</h1>
+  <div class="row">
+    <div class="col-sm-3">
+      <div class="product-item">
+        <img
+          src="https://img.freepik.com/free-photo/sneaker-that-has-word-nike-it_123827-23436.jpg?w=996&t=st=1700725687~exp=1700726287~hmac=7f664e760885ceb29ff4e37d0f0b177ada653d7ec9805e56d4f7f3c246f5a5d0"
+        />
+        <div class="product-details">
+          <h6 class="name-head">New Apple Mobile</h6>
+          <div class="product-price">
+            <h6>Price:600</h6>
+          </div>
+          <div class="product-color">
+            <h6>Color:blue</h6>
+          </div>
+        </div>
+        <div class="product-footer">
+            <a href="">View Details</a>
+            <a href="">Add to card</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

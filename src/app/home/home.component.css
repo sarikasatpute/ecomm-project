@@ -1,0 +1,25 @@
+.product_header_image{
+    object-fit: contain;
+    height: 600px;
+    width: 100%;
+    
+}
+.product-list-wrapper{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.product-item{
+    margin-bottom: 40px;
+    margin-right: 25px;
+    border: 1px solid;
+}
+.product-item img{
+    object-fit: contain;
+    height: 200px;
+    width: 100%;
+}
+.product-item .product-details{
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+}
